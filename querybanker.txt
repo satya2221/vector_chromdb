@@ -1,0 +1,13 @@
+1. **Managing the Bank's Money**: The Banker handles all of the Bank's money, including paying salaries, bonuses, and managing property sales and auctions.
+
+2. **Separation of Funds**: If the Banker is also a player in the game, he/she must keep personal funds separate from the Bank's funds.
+
+3. **Auctioneer**: The Banker conducts property auctions when players choose not to buy properties at their printed prices.
+
+4. **Handling Property Transactions**: The Banker is responsible for selling and auctioning properties, collecting all taxes, fines, loans, and interest, as well as issuing Title Deed cards to players.
+
+5. **Issuing Money**: If the Bank runs out of money, the Banker can issue more by writing on ordinary paper.
+
+6. **Overseeing Game Play**: The Banker helps facilitate the game by ensuring rules are followed and transactions are conducted properly.
+
+In summary, the Banker acts as the financial manager of the game while also facilitating transactions between players and the Bank.
